@@ -1,0 +1,36 @@
+
+.navbar{
+   
+    background-color: rgba(248, 243, 243, 0.807);
+}
+
+nav ul li a .fa-house-chimney {
+color: #5fcde3;
+font-size:30px;
+}
+nav ul li a .fa-file-lines {
+color: #e7754d;
+font-size:30px;
+}
+nav ul li a .fa-graduation-cap {
+    color: #dd6b9e;
+    font-size:30px;
+}
+nav ul li a .fa-edit {
+    color: #6e4692;
+
+    font-size:30px;
+}
+nav ul li a .fa-info-circle {
+    color: #89b955;
+    font-size:30px;
+}
+nav ul li a .fa-shopping-basket {
+    color: black;
+    font-size:30px;
+}
+nav ul li a .fa-phone {
+    color: #2fb9d3;
+    font-size:30px;
+}
+
